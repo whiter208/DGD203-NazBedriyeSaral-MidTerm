@@ -1,0 +1,7 @@
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\bin\Debug\IslandSurvival.exe.config
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\bin\Debug\IslandSurvival.exe
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\bin\Debug\IslandSurvival.pdb
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\obj\Debug\IslandSurvival.csproj.AssemblyReference.cache
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\obj\Debug\IslandSurvival.csproj.CoreCompileInputs.cache
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\obj\Debug\IslandSurvival.exe
+C:\Users\ensex\source\repos\IslandSurvival\IslandSurvival\obj\Debug\IslandSurvival.pdb
